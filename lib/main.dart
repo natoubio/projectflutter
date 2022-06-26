@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
 
 
     return MaterialApp(
-      title: 'RESTO',
+      title: 'Restaurant',
       theme: ThemeData(
         // C'est le thème de votre candidature.
         //
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.grey,
       ),
-      home: const MyHomePage(title: 'CHEZ PAKA FOOD'),
+      home: const MyHomePage(title: 'Natou Tchop'),
     );
   }
 }

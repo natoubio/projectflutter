@@ -9,9 +9,9 @@ class Menu {
 
   const Menu(this.image,this.title,this.prix, this.description,this.descriptionTotal);
 }
-Menu menu1= Menu("images/ndole.jpg","ndole","2500 fcfa","Ndolè viande, morue et crevettes","Quelques mots sur cette recette de sauce :Le ndolè est une des sauces nationale du Cameroun fait à base de ndolè (plante légumière amère), arachides et viande/crevettes ou poisson/crevettes ou viande/poisson/crevettes. Le ndolè est présent dans presque tous les buffets des cérémonies.");
-Menu menu2= Menu("images/poulet.jpg","poulet dg","5000 fcfa","CAMEROUN POULET DG","Poulet DG, qui signifie « poulet pour le directeur général », est un délicieux plat de poulet et de plantain qui est généralement servi lors d'occasions spéciales au Cameroun et une recette totalement parfaite pour la fête des pères.");
-Menu menu3= Menu("images/poisson.jpg","poisson braisser","3000 fcfa","Tilapia Braisé","Poisson Braisé avec frite de plantain");
-Menu menu4= Menu("images/riz.jpg","riz","2500 fcfa","RIZ NDOLE","Riz ndole avec les eminces de boeuf");
-Menu menu5= Menu("images/ero.jpg","eru","2500 fcfa","watafufu and eru","watafufu and eru ");
-Menu menu6= Menu("images/ekwan.jpg","ekwan","2500 fcfa","EKWAN","Mtes typiquement camerounais du peuple sudiste");
+Menu menu1= Menu("images/okok.jpg","Okok salé","2500 fcfa","OKOK, viande et poisson fumé","Quelques mots sur cette recette de sauce :Le Okok est un plat traditionnel du peuple Beti préparé avec les arachides les feuilles de Gnetum sp. dont il porte le nom en langue locale.");
+Menu menu2= Menu("images/pile.jpg","Pilé de pomme","2000fcfa","Pilé","le Pilé un plat fait à base de Haricot de pomme de terre et d'huile rouge. ce plat est originaire de la région de l'ouest du cameroun.");
+Menu menu3= Menu("images/viande.jpg","kouakoukou","3000 fcfa","Kouakoukou","macabo rapé emballé dans les feuilles accompagnés de la peau de boeuf et du poisson braisé");
+Menu menu4= Menu("images/taro.jpg","Atchu","2500 fcfa","Atchu","Taro pilé et sauce jaune fait a baise d'huile rouge et differentes épices traditionnelles");
+Menu menu5= Menu("images/gombo.jpg","Sauce Gombo","2500 fcfa","Sauce Gombo","Sauce GOMBO poisson fumé et viande accompagné du couscous mais ");
+Menu menu6= Menu("images/sougui.jpg","Nsougui","2500 fcfa","Nsougui","Sauce fait a base des noix de palmiste accompagne de la viande de brousse de l'antilope");
